@@ -1,0 +1,24 @@
+[
+    "index.js",
+    "package.json",
+    {
+        "styles": [
+            "reset.css",
+            "index.css"
+        ],
+        "images": {
+            "logo": [
+                "logo.png"
+            ]
+        }
+    },
+    {
+        "scripts": [
+            "index.js",
+            {
+                "actions": "index.js"
+            },
+            "utils.js"
+        ]
+    }
+]
